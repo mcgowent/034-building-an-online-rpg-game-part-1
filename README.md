@@ -6,7 +6,7 @@ We will be using a hook from https://github.com/donavon/use-event-listener, and 
 
 To get started download the example code from ...
 
-`git clone ...`
-`git checkout start-here`
+- `git clone https://github.com/ReactUniversity/034-building-an-online-rpg-game-part-1`
+- `git checkout start-here`
 
 And follow along with the screencast. The completed code for this episode can be found on the "done" branch.
