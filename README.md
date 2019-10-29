@@ -7,6 +7,15 @@ We will be using a hook from https://github.com/donavon/use-event-listener, and 
 To get started download the example code from ...
 
 - `git clone https://github.com/ReactUniversity/034-building-an-online-rpg-game-part-1`
-- `git checkout start-here`
+- `git checkout 01-start-here`
 
 And follow along with the screencast. The completed code for this episode can be found on the "done" branch.
+
+### Step by step via git branches
+
+- 01-start-here
+- 02-game-and-character-components
+- 03-add-event-listener-keydown
+- 04-changing-direction
+- 05-walking-animation
+- 06-custom-use-walker-hook
